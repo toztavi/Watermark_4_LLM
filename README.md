@@ -49,4 +49,4 @@ LLM（大規模言語モデル）が生成する文章に「見えない透か�
 - S. Dathathri et al., "Scalable watermarking for identifying large language model outputs," Nature, 2024. https://www.nature.com/articles/s41586-024-08025-4
 - Anthropic, "How Claude marks AI-generated content." https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content
 
-解説記事: タビの足袋（近日公開） https://taviko.com/
+解説記事: タビの足袋 https://taviko.com/tavilab/ai-usage/llm-text-watermark/
